@@ -1,0 +1,14 @@
+{
+  "name": "primeiroexemplo",
+  "version": "1.0.0",
+  "description": "Primeiro exemplo de estudo com o Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Gisele Sodré",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.3.0"
+  }
+}
