@@ -1,0 +1,69 @@
+[
+    {
+        "email": "paiabraao@xltech.com.br",
+        "fullName": "Abraão de Deus",
+        "userName": "abraaodedeus",
+        "password": "123456789"
+    },
+    {
+        "email": "isaque@xltech.com.br",
+        "fullName": "Isaque de Deus",
+        "userName": "isaquededeus",
+        "password": "123456789"
+    },
+    {
+        "email": "jacolutador@xltech.com.br",
+        "fullName": "Jacó de Deus",
+        "userName": "jacodedeus",
+        "password": "123456789"
+    },    
+    {
+        "email": "israelabencoado@xltech.com.br",
+        "fullName": "Israel de Deus",
+        "userName": "israeldedeus",
+        "password": "123456789"
+    },    
+    {
+        "email": "josedoegito@xltech.com.br",
+        "fullName": "José do Egito de Deus",
+        "userName": "josededeus",
+        "password": "123456789"
+    },    
+    {
+        "email": "moisesmarvermelho@xltech.com.br",
+        "fullName": "Moisés de Deus",
+        "userName": "moisesdedeus",
+        "password": "123456789"
+    },    
+    {
+        "email": "josueguerreiro@xltech.com.br",
+        "fullName": "Josué de Deus",
+        "userName": "josuededeus",
+        "password": "123456789"
+    },    
+    {
+        "email": "raaberedimida@xltech.com.br",
+        "fullName": "Raabe de Deus",
+        "userName": "raabededeus",
+        "password": "123456789"
+    },    
+    {
+        "email": "reidavi@xltech.com.br",
+        "fullName": "Rei Davi de Deus",
+        "userName": "reidavidedeus",
+        "password": "123456789"
+    },    
+    {
+        "email": "salomaosabio@xltech.com.br",
+        "fullName": "Salomão de Deus",
+        "userName": "salomaodedeus",
+        "password": "123456789"
+    },
+    {
+        "email": "gisodre@xltech.com.br",
+        "fullName": "Gi Sodré de Deus",
+        "userName": "gisodre",
+        "password": "123456789"
+    }
+
+]
